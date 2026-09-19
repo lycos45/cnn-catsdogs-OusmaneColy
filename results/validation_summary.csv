@@ -1,0 +1,5 @@
+run,epochs,best_epoch,val_loss,val_acc,val_prec,val_rec,median_epoch_s
+A_scratch_adam,15,13,0.346,0.854,0.845,0.866,212.0
+A_scratch_sgd,15,14,0.401,0.824,0.835,0.805,205.4
+B_transfer_adam,5,3,0.07,0.975,0.981,0.969,179.2
+B_transfer_sgd,5,4,0.111,0.969,0.971,0.967,115.661

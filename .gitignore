@@ -1,0 +1,10 @@
+Cat_Dog_data/
+data/
+*.pt
+*.pth
+checkpoints/
+runs/
+results/debug/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
